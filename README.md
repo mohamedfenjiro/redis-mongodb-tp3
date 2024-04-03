@@ -8,6 +8,7 @@ Before running the script, ensure that you have the following installed:
 
 - Docker: [Installation guide](https://docs.docker.com/get-docker/)
 - Python 3.x
+- Install YCSB: [Installation guide](https://github.com/brianfrankcooper/YCSB) 
 
 ## Usage
 
